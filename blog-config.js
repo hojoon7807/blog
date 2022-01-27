@@ -8,7 +8,7 @@ module.exports = {
     email: "ujuj0202@gmail.com",
   },
   utterances: {
-    repo: "hojoon7807/hojoon7807.github.io",
+    repo: "hojoon7807/blog",
     type: "pathname",
   },
 }
